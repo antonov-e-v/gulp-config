@@ -30,14 +30,6 @@
     "IE 11",
     "Firefox ESR"
   ],
-  "editorconfig-cli": [
-    "*.json",
-    "*.js",
-    "source/*.html",
-    "source/js/**/*.js",
-    "source/img/**/*.svg",
-    "source/sass/**/*.{sass,scss}"
-  ],
   "engines": {
     "node": "8.12"
   }
